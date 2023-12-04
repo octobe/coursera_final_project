@@ -7,7 +7,7 @@ function upDate(previewPic){
       }
   
   
-      function unDo(){
+function unDo(){
     document.getElementById("image").style.backgroundImage = '';
     document.getElementById("image").innerHTML = 'Hover over an image below to display here.';		
       }
